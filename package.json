@@ -190,6 +190,7 @@
     "file-type": "21.0.0",
     "flat": "^6.0.1",
     "github-slugger": "^2.0.0",
+    "github-pages": "^2.7.0"
     "glob": "11.0.2",
     "hast-util-from-parse5": "^8.0.3",
     "hast-util-to-string": "^3.0.1",
@@ -299,6 +300,7 @@
     "eslint-plugin-primer-react": "^8.0.0",
     "event-to-promise": "^0.8.0",
     "globals": "^16.3.0",
+    "github-pages": "^2.7.0"
     "graphql": "^16.9.0",
     "http-status-code": "^2.1.0",
     "husky": "^9.1.7",
